@@ -1,0 +1,24 @@
+{
+  "name": "webpackstuff",
+  "version": "1.0.0",
+  "description": "testing webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack src/js/app.js dist/bundle.js",
+    "start": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdeak1210/Webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdeak1210/Webpack/issues"
+  },
+  "homepage": "https://github.com/kdeak1210/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
