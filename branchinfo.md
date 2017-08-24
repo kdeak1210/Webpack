@@ -1,4 +1,4 @@
-# Before Webpack
+# After Webpack
 
 ## This branch shows the project after the use of Webpack
 
